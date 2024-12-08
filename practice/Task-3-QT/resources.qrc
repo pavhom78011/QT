@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/1607502844_moyka-avto-minsk-gazautosistem-000.jpg</file>
+        <file>resources/Input.txt</file>
+        <file>resources/111.png</file>
+        <file>resources/yt_j_1200x675.jpg</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>PlayPage.qml</file>
+        <file>Mainmenu.qml</file>
+        <file>ToMainMenu.png</file>
+        <file>igrovaya-sreda-audio-energoobespechenie-audio-material-39368.mp3</file>
+        <file>vyibor-nujnogo-deystviya.mp3</file>
+        <file>zvuk-oshibki-vyibora.mp3</file>
+    </qresource>
+</RCC>

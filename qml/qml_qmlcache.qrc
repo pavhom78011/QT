@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<RCC>
+    <qresource prefix="/">
+        <file alias="main.qml">main.qml</file>
+        <file alias="PlayPage.qml">PlayPage.qml</file>
+        <file alias="Mainmenu.qml">Mainmenu.qml</file>
+        <file alias="ToMainMenu.png">ToMainMenu.png</file>
+    </qresource>
+</RCC>

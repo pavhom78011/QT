@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/Latin_dictionary.jpg</file>
+        <file>resources/20200208112234_Oblaka_p1071_366.jpg</file>
+    </qresource>
+</RCC>
